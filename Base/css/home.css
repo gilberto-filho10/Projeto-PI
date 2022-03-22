@@ -1,0 +1,63 @@
+
+/* Color Theme Swatches in Hex */
+.King-text-logo-vector-graphics-1-hex { color: #F2E205; }
+.King-text-logo-vector-graphics-2-hex { color: #F2CB05; }
+.King-text-logo-vector-graphics-3-hex { color: #F2DA63; }
+.King-text-logo-vector-graphics-4-hex { color: #F2F2F2; }
+.King-text-logo-vector-graphics-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.King-text-logo-vector-graphics-1-rgba { color: rgba(242, 226, 4, 1); }
+.King-text-logo-vector-graphics-2-rgba { color: rgba(242, 202, 4, 1); }
+.King-text-logo-vector-graphics-3-rgba { color: rgba(242, 218, 99, 1); }
+.King-text-logo-vector-graphics-4-rgba { color: rgba(242, 242, 242, 1); }
+.King-text-logo-vector-graphics-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.King-text-logo-vector-graphics-1-hsla { color: hsla(56, 96, 48, 1); }
+.King-text-logo-vector-graphics-2-hsla { color: hsla(50, 96, 48, 1); }
+.King-text-logo-vector-graphics-3-hsla { color: hsla(50, 84, 66, 1); }
+.King-text-logo-vector-graphics-4-hsla { color: hsla(0, 0, 95, 1); }
+.King-text-logo-vector-graphics-5-hsla { color: hsla(0, 0, 5, 1); }
+
+/* Formatação geral da página */
+body{
+    font-family: 'Source Sans Pro','Courier New', Courier, monospace;
+}
+
+.row{
+    margin: 0;
+}
+
+.container{
+    padding: 70px 0;
+    ;
+}
+
+p, li{
+    color: #4444;
+    font-size: 14px;
+}
+
+/* Navebar */
+header, .navbra{
+    background-color: #353d41;
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo{
+    width: 75px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: #FFF;
+}
+
+.navbar-brand:houver{
+    color: #FFF;
+}
